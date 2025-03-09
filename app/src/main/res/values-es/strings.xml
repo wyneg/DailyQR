@@ -1,0 +1,48 @@
+<resources>
+    <string name="crear_codigo_qr">Crear código QR</string>
+    <string name="escanear_codigo_qr">Escanear código QR</string>
+    <string name="registro_ventas">Registro de ventas</string>
+    <string name="nompre_producto" translatable="false">Nombre producto</string>
+    <string name="precio" translatable="false">Precio</string>
+    <string name="descripcion" translatable="false">Descripción</string>
+    <string name="guardar_imagen" translatable="false">Guardar Imagen</string>
+    <string name="productos_registrados" translatable="false">Productos Registrados</string>
+    <string name="Toast_campos_vacios" translatable="false">Campos Nombre Producto y precio no pueden ir vacíos.</string>
+    <string name="saved" translatable="false">Imagen guardada en directorio Pictures.</string>
+    <string name="not_saved" translatable="false">Imagen no se guardó.</string>
+    <string name="permiso_concedido" translatable="false">Permiso concedido</string>
+    <string name="aceptar_permiso" translatable="false">Aceptar permiso</string>
+    <string name="favor_aceptar_permiso" translatable="false">Favor aceptar permiso</string>
+    <string name="camara_necesita_permiso_funcionar" translatable="false">La camara necesita el permiso para funcionar</string>
+    <string name="cantidad" translatable="false">Cantidad</string>
+    <string name="total" translatable="false">Total</string>
+    <string name="registrar_venta" translatable="false">Registrar venta</string>
+    <string name="guardar_en_excel" translatable="false">Exportar a archivo Excel</string>
+    <string name="fecha_hora_venta" translatable="false">Fecha/Hora venta</string>
+    <string name="ingrese_solo_numeros" translatable="false">Ingrese solo números</string>
+    <string name="aceptar_borrar_archivo" translatable="false">¿Está seguro de querer borrar el archivo?</string>
+    <string name="qr_invalido" translatable="false">Código QR inválido para esta app</string>
+    <string name="aceptar" translatable="false">Aceptar</string>
+    <string name="aviso_redireccion" translatable="false">Aviso de redirección</string>
+    <string name="desea_visitar" translatable="false">¿Desea visitar %1$s?</string>
+    <string name="cancelar" translatable="false">Cancelar</string>
+    <string name="efectivo" translatable="false">Efectivo</string>
+    <string name="debito" translatable="false">Débito</string>
+    <string name="credito" translatable="false">Crédito</string>
+    <string name="venta" translatable="false">Venta</string>
+    <string name="registro_guardado_exitosamente" translatable="false">Registro guardado exitosamente</string>
+    <string name="registro_no_guardado" translatable="false">Registro no se guardó</string>
+    <string name="registros_dia" translatable="false">Registros día %1$s</string>
+    <string name="seguro_borrar_registro" translatable="false">¿Está seguro de querer borrar el registro?</string>
+    <string name="registro_eliminado_exitosamente" translatable="false">Registro eliminado exitosamente</string>
+    <string name="registro_no_se_pudo_eliminar" translatable="false">El registro no se pudo eliminar</string>
+    <string name="escanea_qr_para_mostrar_info" translatable="false">¡Escanea tus códigos QR generados para mostrar información aquí!</string>
+    <string name="crea_codigos_qr_para_mostrar_info" translatable="false">¡Crea tus códigos QR para mostrar información aquí!</string>
+    <string name="bienvenido_a_daily_qr" translatable="false">¡Bienvenido a Daily QR!\n\n</string>
+    <string name="texto1" translatable="false">"Muchas gracias por elegir Daily QR. Estas son las secciones que puedes encontrar en tu aplicación:\n\n"</string>
+    <string name="texto2" translatable="false">Aquí puedes crear los códigos QR de tus productos que deseas hacer inventario de ventas. Cuando creas tu código QR puedes guardarlo en tus imágenes o compartirlo con otra aplicación. Luego los puedes imprimir o hacer stickers con ellos para pegarlos en tus productos.\n\n</string>
+    <string name="texto3" translatable="false">Aquí puedes escanear tus códigos QR impresos al momento de generar una venta. Esto generará un registro con la fecha y la hora de la venta. Puedes indicar la cantidad de productos que estás vendiendo, además de cambiar el precio de la venta en caso de un recargo o un descuento y el tipo de pago (Efectivo, Débito o Crédito).\n\n</string>
+    <string name="texto4" translatable="false">"Aquí puedes visualizar las ventas diarias de tus productos con un click sobre el registro a consultar. Si mantienes presionado el registro, puedes exportarlo a un archivo excel que se guardará en tu directorio de descargas. Puedes borrar un registro diario deslizándolo y confirmando la eliminación "</string>
+    <string name="texto4punto5" translatable="false">(eliminación completa, no recuperable).\n\n</string>
+    <string name="texto5" translatable="false">"Aquí están registrados todos los códigos QR de los productos que has creado. Puedes volver a descargarlos o compartirlos con un click sobre el nombre del producto. Para eliminar un registro, mantenlo presionado y confirma su eliminación "</string>
+</resources>

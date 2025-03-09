@@ -1,0 +1,41 @@
+<resources>
+    <string name="crear_codigo_qr">Criar código QR</string>
+    <string name="escanear_codigo_qr">Digitalize o código QR</string>
+    <string name="registro_ventas">Recorde de vendas</string>
+    <string name="nompre_producto" translatable="false">Nome do produto</string>
+    <string name="precio" translatable="false">Preço</string>
+    <string name="descripcion" translatable="false">Descrição</string>
+    <string name="guardar_imagen" translatable="false">Salvar imagem</string>
+    <string name="productos_registrados" translatable="false">Produtos Registrados</string>
+    <string name="Toast_campos_vacios" translatable="false">Os campos Nome do Produto e Preço não podem ficar vazios.</string>
+    <string name="saved" translatable="false">Imagem salva no diretório Imagens.</string>
+    <string name="not_saved" translatable="false">A imagem não foi salva.</string>
+    <string name="permiso_concedido" translatable="false">Permissão concedida</string>
+    <string name="aceptar_permiso" translatable="false">Aceitar permissão</string>
+    <string name="favor_aceptar_permiso" translatable="false">Por favor, aceite permissão</string>
+    <string name="camara_necesita_permiso_funcionar" translatable="false">A câmera precisa de permissão para funcionar</string>
+    <string name="cantidad" translatable="false">Quantia</string>
+    <string name="total" translatable="false">Total</string>
+    <string name="registrar_venta" translatable="false">Cadastrar venda</string>
+    <string name="guardar_en_excel" translatable="false">Exportar para arquivo Excel</string>
+    <string name="fecha_hora_venta" translatable="false">Data/hora da venda</string>
+    <string name="ingrese_solo_numeros" translatable="false">Insira apenas números</string>
+    <string name="aceptar_borrar_archivo" translatable="false">Tem certeza de que deseja excluir o arquivo?</string>
+    <string name="qr_invalido" translatable="false">Código QR inválido para este aplicativo</string>
+    <string name="aceptar" translatable="false">Aceitar</string>
+    <string name="aviso_redireccion" translatable="false">Aviso de redirecionamento</string>
+    <string name="desea_visitar" translatable="false">Você quer visitar %1$s?</string>
+    <string name="cancelar" translatable="false">Cancelar</string>
+    <string name="efectivo" translatable="false">Dinheiro</string>
+    <string name="debito" translatable="false">Débito</string>
+    <string name="credito" translatable="false">Crédito</string>
+    <string name="venta" translatable="false">Venda</string>
+    <string name="registro_guardado_exitosamente" translatable="false">Registro salvo com sucesso</string>
+    <string name="registro_no_guardado" translatable="false">O registro não foi salvo</string>
+    <string name="registros_dia" translatable="false">Registros diários %1$s</string>
+    <string name="seguro_borrar_registro" translatable="false">Tem certeza de que deseja excluir o registro?</string>
+    <string name="registro_eliminado_exitosamente" translatable="false">Registro excluído com sucesso</string>
+    <string name="registro_no_se_pudo_eliminar" translatable="false">Não foi possível excluir o registro</string>
+    <string name="escanea_qr_para_mostrar_info" translatable="false">Digitalize seus códigos QR gerados para exibir informações aqui!</string>
+    <string name="crea_codigos_qr_para_mostrar_info" translatable="false">Crie seus códigos QR para exibir informações aqui!</string>
+</resources>

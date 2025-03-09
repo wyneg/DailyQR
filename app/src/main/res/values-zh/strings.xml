@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name" translatable="false">Daily QR</string>
+    <string name="crear_codigo_qr">创建二维码</string>
+    <string name="escanear_codigo_qr">扫描二维码</string>
+    <string name="registro_ventas">销售记录</string>
+    <string name="nompre_producto">产品名称</string>
+    <string name="precio">价格</string>
+    <string name="descripcion">描述</string>
+    <string name="guardar_imagen">保存图片</string>
+    <string name="productos_registrados">注册产品</string>
+    <string name="Toast_campos_vacios">产品名称和价格字段不能为空。</string>
+    <string name="saved">图像保存在图片目录中。</string>
+    <string name="not_saved">图像未保存。</string>
+    <string name="permiso_concedido">已授予许可</string>
+    <string name="aceptar_permiso">允许许可</string>
+    <string name="favor_aceptar_permiso">请允许许可</string>
+    <string name="camara_necesita_permiso_funcionar">相机需要获得工作许可</string>
+    <string name="cantidad">数量</string>
+    <string name="total">全部的</string>
+    <string name="registrar_venta">登记销售</string>
+    <string name="guardar_en_excel">保存为 Excel 文件</string>
+    <string name="fecha_hora_venta">销售日期/时间</string>
+    <string name="ingrese_solo_numeros">仅输入数字</string>
+    <string name="aceptar_borrar_archivo">您确定还是要删除该文件？</string>
+    <string name="qr_invalido">此应用的二维码无效</string>
+    <string name="aceptar">确认</string>
+    <string name="aviso_redireccion">重定向通知</string>
+    <string name="desea_visitar">你想去参观吗 %1$s?</string>
+    <string name="cancelar">取消</string>
+    <string name="efectivo">现金</string>
+    <string name="debito">借方</string>
+    <string name="credito">信用</string>
+    <string name="venta">销售</string>
+    <string name="registro_guardado_exitosamente">记录保存成功</string>
+    <string name="registro_no_guardado">记录未保存</string>
+    <string name="registros_dia">每日记录 %1$s</string>
+    <string name="seguro_borrar_registro">您确实要删除该记录吗？</string>
+    <string name="registro_eliminado_exitosamente">记录删除成功</string>
+    <string name="registro_no_se_pudo_eliminar">无法删除该记录</string>
+    <string name="escanea_qr_para_mostrar_info">扫描您生成的二维码即可在此处显示信息！</string>
+    <string name="crea_codigos_qr_para_mostrar_info">创建您的二维码以在此显示信息！</string>
+</resources>

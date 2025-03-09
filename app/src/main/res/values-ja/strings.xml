@@ -1,0 +1,41 @@
+<resources>
+    <string name="crear_codigo_qr">QRコードを作成する</string>
+    <string name="escanear_codigo_qr">QRコードをスキャンする</string>
+    <string name="registro_ventas">売上記録</string>
+    <string name="nompre_producto" translatable="false">製品名</string>
+    <string name="precio" translatable="false">値段</string>
+    <string name="descripcion" translatable="false">説明</string>
+    <string name="guardar_imagen" translatable="false">イメージを保存</string>
+    <string name="productos_registrados" translatable="false">登録製品</string>
+    <string name="Toast_campos_vacios" translatable="false">製品名と値段フィールドを空にすることはできません。</string>
+    <string name="saved" translatable="false">イメージは Pictures ディレクトリに保存されます。</string>
+    <string name="not_saved" translatable="false">イメージは保存されませんでした。</string>
+    <string name="permiso_concedido" translatable="false">許可が与えられました</string>
+    <string name="aceptar_permiso" translatable="false">許可を受け入れる</string>
+    <string name="favor_aceptar_permiso" translatable="false">許可を受け入れてください</string>
+    <string name="camara_necesita_permiso_funcionar" translatable="false">カメラが動作するには許可が必要です</string>
+    <string name="cantidad" translatable="false">量</string>
+    <string name="total" translatable="false">合計</string>
+    <string name="registrar_venta" translatable="false">売上を登録する</string>
+    <string name="guardar_en_excel" translatable="false">Excelファイルにエクスポートする</string>
+    <string name="fecha_hora_venta" translatable="false">売上日・売上時間</string>
+    <string name="ingrese_solo_numeros" translatable="false">数字のみを入力してください</string>
+    <string name="aceptar_borrar_archivo" translatable="false">ファイルを削除してもよろしいですか?</string>
+    <string name="qr_invalido" translatable="false">このアプリには無効な QR コードです</string>
+    <string name="aceptar" translatable="false">承認</string>
+    <string name="aviso_redireccion" translatable="false">リダイレクト通知</string>
+    <string name="desea_visitar" translatable="false">%1$s にアクセスしますか?</string>
+    <string name="cancelar" translatable="false">キャンセル</string>
+    <string name="efectivo" translatable="false">現金</string>
+    <string name="debito" translatable="false">デビット</string>
+    <string name="credito" translatable="false">クレジット</string>
+    <string name="venta" translatable="false">売上</string>
+    <string name="registro_guardado_exitosamente" translatable="false">記録が正常に保存されました</string>
+    <string name="registro_no_guardado" translatable="false">記録は保存されませんでした</string>
+    <string name="registros_dia" translatable="false">日の記録: %1$s</string>
+    <string name="seguro_borrar_registro" translatable="false">記録を削除してもよろしいですか?</string>
+    <string name="registro_eliminado_exitosamente" translatable="false">記録が正常に削除されました</string>
+    <string name="registro_no_se_pudo_eliminar" translatable="false">記録を削除できませんでした</string>
+    <string name="escanea_qr_para_mostrar_info" translatable="false">生成された QR コードをスキャンすると、ここに情報が表示されます！</string>
+    <string name="crea_codigos_qr_para_mostrar_info" translatable="false">ここに情報を表示するための QR コードを作成します！</string>
+</resources>
